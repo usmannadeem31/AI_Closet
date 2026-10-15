@@ -1,0 +1,3 @@
+-r requirements.txt
+# HTTP client used by the installed Starlette TestClient.
+httpx2==2.13.0
